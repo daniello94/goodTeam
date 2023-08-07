@@ -1,0 +1,295 @@
+/* styles common */
+
+/* styles MyHeder {h1} */
+.heder {
+    font-size: 56px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-family: "Roboto", sans-serif;
+}
+/* styles secondHeader {h2} */
+.h2 {
+    font-size: 36px;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 40px;
+}
+.h2ContentTwoPl {
+    margin-bottom: 30px;
+}
+.h2ContentTwoEn,
+.h2ContentTwoDe {
+    margin-top: 50px;
+}
+.h2ContentTwoFr {
+    margin-top: 60px;
+}
+.h2ContentTwoNl {
+    font-size: 32px;
+}
+/* styles forHeder {h4} */
+.h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Roboto Slab", serif;
+    word-spacing: 7px;
+    letter-spacing: 3px;
+}
+.h4Tree {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+.h4TreePl {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+/* styles MyText {p} */
+.text {
+    font-size: 16px;
+    margin-top: 0;
+    font-style: italic;
+    font-family: "Open Sans", sans-serif;
+    font-weight: lighter;
+}
+.secondContent {
+    font-style: normal;
+}
+/* media */
+@media all and (min-width: 1285px) {
+    .h4Tree {
+        font-size: 20px;
+    }
+}
+@media all and (max-width: 1285px) {
+    .h4 {
+        font-size: 18px;
+    }
+    /* styles SecondHeader */
+    .h2ContentTwoPl {
+        margin-top: 35px;
+        margin-bottom: 25px;
+        font-size: 34px;
+    }
+    .h2ContentTwoEn,
+    .h2ContentTwoDe {
+        font-size: 34px;
+        margin-top: 50px;
+        margin-bottom: 15px;
+    }
+    .h2ContentTwoFr {
+        margin-top: 60px;
+        margin-bottom: 33px;
+    }
+    .h2ContentTwoNl {
+        font-size: 32px;
+        margin-bottom: 43px;
+    }
+    /* styles myText */
+    .secondContent {
+        font-size: 15px;
+    }
+}
+@media all and (max-width: 1025px) {
+    /* styles myHeder */
+    .heder {
+        font-size: 52px;
+    }
+    /* styles secondHeder */
+    .h2ContentTwoPl {
+        margin-top: 35px;
+        margin-bottom: 25px;
+        font-size: 34px;
+    }
+    .h2ContentTwoEn,
+    .h2ContentTwoDe {
+        font-size: 32px;
+        margin-top: 50px;
+        margin-bottom: 15px;
+    }
+    .h2ContentTwoFr {
+        margin-top: 60px;
+        margin-bottom: 42px;
+        font-size: 31px;
+    }
+    .h2ContentTwoNl {
+        font-size: 30px;
+        margin-bottom: 14px;
+    }
+    /* styles myText */
+    .secondContent {
+        font-size: 15px;
+    }
+    /* styles forHeader */
+    .h4Two {
+        font-size: 15px;
+    }
+    .h4Tree {
+        font-size: 14px;
+    }
+    /* stylesMyText */
+    .secondContent {
+        font-size: 14px;
+    }
+}
+@media all and (max-width: 854px) {
+    /* styles myHeader */
+    .heder {
+        font-size: 50px;
+    }
+    /* styles secondHeder */
+    .h2ContentTwoPl {
+        margin-top: 35px;
+        margin-bottom: 25px;
+        font-size: 34px;
+    }
+    .h2ContentTwoEn {
+        margin-bottom: 13px;
+    }
+    .h2De {
+        margin-bottom: 38px;
+        font-size: 33px;
+    }
+    .h2ContentTwoDe {
+        margin-top: 40px;
+        margin-bottom: 24px;
+        font-size: 28px;
+    }
+
+    .h2ContentTwoFr {
+        margin-top: 50px;
+        margin-bottom: 18px;
+        font-size: 32px;
+    }
+    .h2ContentTwoNl {
+        margin-top: 40px;
+        font-size: 25px;
+        margin-bottom: 26px;
+    }
+    /* styles myText */
+    .secondContent {
+        font-size: 15px;
+    }
+    /* styles forHeader */
+    .h4Two {
+        font-size: 15px;
+    }
+    /* styles forHeader */
+    .h4 {
+        font-size: 16px;
+    }
+    .h4Two {
+        font-size: 14px;
+    }
+    .h4TreeDe {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+    /* styles myText */
+    .text,
+    .secondContent {
+        font-size: 14px;
+    }
+}
+@media all and (max-width: 768px) {
+    /* styles myHeader */
+    .heder {
+        font-size: 45px;
+        margin-bottom: 15px;
+    }
+    /* styles secondHeder */
+    .h2 {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+    .h2ContentTwoPl {
+        margin-top: 35px;
+        margin-bottom: 25px;
+        font-size: 20px;
+    }
+    .h2ContentTwoEn,
+    .h2ContentTwoDe {
+        margin-top: 30px;
+        font-size: 25px;
+        margin-bottom: 13px;
+    }
+    .h2ContentTwoFr {
+        margin-top: 30px;
+        margin-bottom: 12px;
+        font-size: 25px;
+    }
+    .h2ContentTwoNl {
+        margin-top: 30px;
+        font-size: 21px;
+        margin-bottom: 9px;
+    }
+    /* styles forHeader */
+    .h4 {
+        margin-bottom: 40px;
+        font-size: 12px;
+        margin-top: 0;
+    }
+    .h4Two {
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .bottomFive {
+        margin-bottom: 10px;
+        font-size: 17px;
+    }
+    /* styles MyText */
+    .text {
+        font-size: 16px;
+    }
+    .secondContent {
+        font-size: 13px;
+    }
+}
+@media all and (max-width: 567px) {
+    /* styles secondHeder */
+    .h2ContentTwo {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+    /* styles forHeder */
+    .h4Two {
+        font-size: 20px;
+    }
+    .h4Tree {
+        font-size: 20px;
+    }
+    .bottomFive {
+        margin-bottom: 10px;
+    }
+}
+
+@media all and (max-width: 480px) {
+    /* styles MyHeader */
+    .heder {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    /* styles secondHeader */
+    .h2ContentTwo {
+        margin-top: 10px;
+    }
+    /* style forHeader */
+    .h4 {
+        font-size: 12px;
+        margin-bottom: 50px;
+        margin-left: 4px;
+    }
+    .bottomFive {
+        margin-bottom: 10px;
+        font-size: 17px;
+    }
+    /*  style myText */
+    .text,
+    .secondContent {
+        font-size: 16px;
+        margin-left: 4px;
+    }
+    .secondContent {
+        margin-bottom: 0;
+    }
+}

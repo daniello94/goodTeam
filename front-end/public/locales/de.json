@@ -1,0 +1,97 @@
+{
+  "text": {
+    "menu": {
+      "one": "Startseite",
+      "two": "Über uns",
+      "tree": "Mein Profil",
+      "for": "Nachrichten",
+      "five": "Meine Rechnungen",
+      "six": "Benachrichtigungen",
+      "seven": "Anzeige hinzufügen",
+      "eight": "Aktive Anzeigen",
+      "nine": "Anwendungen",
+      "ten": "Meine Anwendungen",
+      "eleven": "Team verwalten",
+      "twelve": "Beschwerden",
+      "login": "Anmelden",
+      "logOut": "Ausloggen",
+      "langue": "Sprache"
+    },
+    "header": {
+      "myHeader": "Wir bauen zusammen",
+      "forHeader": "Zusammen als Team schaffen wir die Arbeit der Träume!",
+      "myText": "In unserer Datenbank gibt es ausgezeichnete, erfahrene Unternehmen, die auf verschiedene Bereiche spezialisiert sind. Jeder unserer Subunternehmer ist ein Spezialist auf seinem Gebiet und garantiert die höchste Qualität der Dienstleistungen. Zusammen bilden wir ein Netzwerk, das auch den kompliziertesten Herausforderungen gewachsen ist."
+    },
+    "becomePartner": {
+      "forHeder": "Sie sind Spezialist?",
+      "secondHeaderOne": "Treten Sie uns bei! Wir schaffen den perfekten Raum für Spezialisten!",
+      "secondHeaderTwo": "Suchen Sie qualifizierte A1-Subunternehmer oder Mitarbeiter? Kontaktieren Sie uns!",
+      "textOne": "Sind Sie Spezialist in Ihrem Bereich und auf der Suche nach neuen Möglichkeiten? Suchen Sie eine Plattform, die Ihre Fähigkeiten schätzt und Ihnen die Möglichkeit bietet, wertvolle Geschäftsbeziehungen aufzubauen? Wenn ja, dann sind Sie hier richtig! Wir haben eine Plattform geschaffen, die Spezialisten aus verschiedenen Branchen verbindet und bietet breite Entwicklungsmöglichkeiten und Zusammenarbeit. Unsere Basis ist ein Ort, an dem Sie Ihre Fähigkeiten präsentieren und auch mit anderen Fachleuten und potenziellen Kunden in Kontakt treten können.",
+      "textTwo": "Wenn Sie erfahrene A1-Subunternehmer oder qualifizierte Mitarbeiter suchen, sind wir hier, um Ihnen zu helfen. Wir verfügen über eine Datenbank von Spezialisten aus verschiedenen Bereichen, die bereit sind, neue Herausforderungen anzunehmen. Kenntnisse der neuesten Trends, langjährige Erfahrung und ständige Bestrebungen nach Exzellenz sind die Merkmale, die uns von der Konkurrenz abheben.",
+      "textBtn": "Konto erstellen"
+    },
+    "ourOfferPage": {
+      "secundHeader": "Was Sie bei uns gewinnen",
+      "myText": "Wir bieten viele Vorteile, die wesentlich zur Wachstum und Entwicklung unserer Geschäftspartner beitragen können. Hier sind einige der wichtigsten:",
+      "blokOffer": {
+        "dateBase": {
+          "forHeader": "Zugang zu",
+          "forHeaderBold": "Kontaktdatenbank",
+          "myText": "In der Zusammenarbeit mit uns erhalten sowohl Subunternehmer als auch Auftraggeber Zugang zu unserem umfangreichen Netzwerk von Fachleuten. Dies spart nicht nur Zeit und Aufwand bei der Suche und Überprüfung potenzieller Kooperationspartner, sondern ermöglicht auch eine schnellere und effizientere Projektumsetzung. Mit unserer Plattform wird die Kontaktaufnahme und der Austausch von Dienstleistungen so einfach wie noch nie."
+        },
+        "contactPeople": {
+          "forHeader": "Aufbau",
+          "forHeaderBold": "eigenes Netzwerk",
+          "myText": "Wir ermöglichen unseren Partnern, sowohl Auftraggebern als auch Subunternehmern, ihr eigenes Netzwerk von Fachleuten aufzubauen. Dies stärkt ihre Unabhängigkeit und öffnet die Tür zu neuen, vorteilhaften Geschäftsbeziehungen. Unabhängig davon, ob Sie Dienstleistungen suchen oder anbieten, unsere Plattform ist ein Ort, der hilft, Geschäftskontakte zu entwickeln und zu festigen."
+        },
+        "communication": {
+          "forHeader": "Effektive Kommunikation und",
+          "forHeaderBold": "einfache Rechnungsverwaltung",
+          "myText": "Unsere Plattform bietet nicht nur umfassende Tools für effektive Kommunikation - sowohl eins zu eins als auch in der Gruppe - sondern auch ein innovatives System zur Abwicklung von Rechnungsprozessen. Unsere Rechnungstools wurden so konzipiert, dass sie die Notwendigkeit eines Buchhalters ersetzen, was sowohl Zeit als auch Geld spart. Als Ergebnis wird das Projektmanagement einfacher und potenzielle Probleme können schnell identifiziert und gelöst werden. Ob Sie Auftraggeber oder Subunternehmer sind, unsere Tools sind darauf ausgelegt, Ihre Arbeit zu erleichtern und effizienter zu gestalten."
+        },
+        "grade": {
+          "forHeader": "Bewertungs",
+          "forHeaderBold": "system",
+          "myText": "Wir bieten Tools, die unseren Partnern, sowohl Auftraggebern als auch Subunternehmern, ermöglichen, Fähigkeiten zu beurteilen und Kontakt zu anderen Fachleuten aufzunehmen. Dies erleichtert den Aufbau von Geschäftsbeziehungen auf der Basis von Glaubwürdigkeit und Überprüfung, was die Erfolgschancen jedes Projekts erhöht. Unsere Plattform dient sowohl denen, die Dienstleistungen suchen, als auch denen, die sie anbieten wollen, und gewährleistet einen hohen Standard der Zusammenarbeit."
+        }
+      }
+    },
+    "mainProfessions": {
+      "secundHeader": "Schlüsselsektoren unserer Experten",
+      "myText": "Unsere Experten konzentrieren sich auf Schlüsselsektoren, die ein breites Spektrum von Fachgebieten und Disziplinen abdecken. In diesen Sektoren nutzen unsere Spezialisten ihr umfangreiches Wissen und ihre Erfahrung, um Dienstleistungen von höchster Qualität zu liefern. So können wir unseren Kunden nicht nur Expertenwissen, sondern auch praktische Lösungen bieten, die ihnen helfen, ihre Ziele zu erreichen.",
+      "offerOption": {
+        "offerOne": {
+          "forHeader": "Maurer",
+          "myText": "Meister des Maurerhandwerks! Bei uns finden Sie die besten Spezialisten der Branche!"
+        },
+        "offerTwo": {
+          "forHeader": "Elektriker",
+          "myText": "Sie suchen einen Experten für Elektrizität? Wir sind hier für Sie! Die besten in der Branche!"
+        },
+        "offerTree": {
+          "forHeader": "Installateure",
+          "myText": "Unvergleichliche Installateure? Bei uns! Die besten Spezialisten in der Branche!"
+        },
+        "offerFor": {
+          "forHeader": "Belüftungstechniker",
+          "myText": "Sie suchen einen Lüftungsmonteur? Bei uns! Die Elite in diesem Bereich!"
+        },
+        "offerFive": {
+          "forHeader": "Innenausbau-Spezialisten",
+          "myText": "Wir gestalten Raum! Bei uns die besten Spezialisten für Innenausbau."
+        },
+        "offerSix": {
+          "forHeader": "Fliesenleger",
+          "myText": "Unsere Fliesenleger sind Meister ihres Fachs!"
+        }
+      }
+    }
+  },
+  "tags": {
+    "one": "Zeig mehr",
+    "two": "Zeige weniger",
+    "open": "Öffnen",
+    "closed": "Schließen",
+    "signUpText": "Registrieren"
+  }
+}

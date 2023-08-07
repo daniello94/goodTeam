@@ -1,0 +1,132 @@
+.contentHederOfferPage {
+    width: 100%;
+    margin: 5px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+%commonStyle {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 650px;
+    width: 25%;
+    img {
+        width: 96px;
+        height: 96px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    .textContent {
+        width: 90%;
+        height: 100%;
+        text-align: left;
+        .hederContent {
+            height: 100px;
+            margin-bottom: 10px;
+            text-align: center;
+            span {
+                font-weight: bold;
+            }
+        }
+    }
+}
+.offerStyle {
+    background-color: #ffce3e;
+    @extend %commonStyle;
+}
+.offerStyleTwo {
+    background-color: #fee856;
+    @extend %commonStyle;
+}
+
+/* media */
+@media all and (max-width: 854px) {
+    .offerStyleTwo,
+    .offerStyle {
+        height: 700px;
+    }
+    .offerStyleTwoPl,
+    .offerStylePl,
+    .offerStyleTwoDe,
+    .offerStyleDe {
+        height: 800px;
+    }
+    .offerStyleTwoFr,
+    .offerStyleFr,
+    .offerStyleTwoNl,
+    .offerStyleNl {
+        height: 750px;
+    }
+}
+@media all and (max-width: 768px) {
+    .offerStyleTwo,
+    .offerStyle {
+        height: 500px;
+        width: 50%;
+        .textContent {
+            .hederContent {
+                margin-bottom: 5px;
+                height: 50px;
+            }
+        }
+    }
+    #position1 {
+        order: 2;
+    }
+    #position2 {
+        order: 1;
+    }
+    #position3 {
+        order: 3;
+    }
+    #position4 {
+        order: 4;
+    }
+}
+@media all and (max-width: 567px) {
+    .offerStyleTwo,
+    .offerStyle {
+        height: 500px;
+        width: 100%;
+        .textContent {
+            .hederContent {
+                margin-bottom: 5px;
+                height: 50px;
+            }
+        }
+    }
+    .offerStyleTwoPl,
+    .offerStylePl,
+    .offerStyleTwoDe,
+    .offerStyleDe,
+    .offerStyleTwoFr,
+    .offerStyleFr {
+        height: 600px;
+    }
+    #position1 {
+        order: 1;
+    }
+    #position2 {
+        order: 2;
+    }
+    #position3 {
+        order: 3;
+    }
+    #position4 {
+        order: 4;
+    }
+}
+@media all and (max-width: 320px) {
+    .offerStyle,
+    .offerStyleTwo {
+        height: 650px;
+    }
+    .offerStyleTwoDe,
+    .offerStyleDe,
+    .offerStyleTwoPl,
+    .offerStylePl {
+        height: 700px;
+    }
+}

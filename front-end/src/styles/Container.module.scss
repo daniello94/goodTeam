@@ -1,0 +1,122 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    z-index: 100000000000000000000000000000000000000000000000000000000000000000;
+}
+.hederContainer {
+    width: 100%;
+    height: 766px;
+    background-image: url("../media/image/pictureHeder.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1;
+}
+.secundContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 3;
+}
+.containerRow {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    z-index: 4;
+    background-color: #f5f5f5;
+    overflow: hidden;
+}
+.containerWrap {
+    flex-wrap: wrap;
+}
+.fixedContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+    background-color: #fffff0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pl {
+    background-image: url("../media/image/polish-flag-8.gif");
+}
+.nl {
+    background-image: url("../media/image/dutch-flag-14.gif");
+}
+.de {
+    background-image: url("../media/image/german-flag-3.gif");
+}
+.fr {
+    background-image: url("../media/image/france-flag-3.gif");
+}
+.en {
+    background-image: url("../media/image/flag-of-england-5.gif");
+}
+.professionsContainer {
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    background-image: url("../media/image/bangraundPage/881d7f6482a559a539edbbc9163ab486.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* media */
+@media all and (min-width: 1200px) {
+    .container {
+        // background-color: red;
+    }
+}
+@media all and (max-width: 1199px) {
+    .container {
+        // background-color: aqua;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .professionsContainer {
+        height: 1200px;
+    }
+}
+
+@media all and (max-width: 567px) {
+    .containerRow {
+        flex-direction: column;
+    }
+    .professionsContainer {
+        height: auto;
+    }
+}
+
+@media all and (max-width: 480px) {
+    .container {
+        // background-color: violet;
+    }
+}
+@media all and (max-width: 320px) {
+    .container {
+        // background-color: olive;
+    }
+}

@@ -1,0 +1,83 @@
+/* button */
+.views {
+    display: none;
+}
+.btn {
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 0;
+    color: black !important;
+}
+/* link */
+.link {
+    text-decoration: none;
+    color: black !important;
+}
+
+.btn,
+.link {
+    padding: 5px;
+    transition: 0.7s;
+    &:hover {
+        box-shadow: 1px 2px 1px 1px #ffda00;
+        border-radius: 2px;
+    }
+}
+.btnOne {
+    background-color: #ffda00;
+    width: 220px;
+    transition: 0.8s;
+    font-weight: 600;
+    border-radius: 2px;
+    margin-left: 20px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    &:hover {
+        background-color: #ffe445;
+        padding: 7px;
+        box-shadow: 0px 4px 6px 3px black;
+        opacity: 0.8;
+    }
+}
+
+/* media */
+@media all and (max-width: 1285px) {
+    .btn {
+        font-size: 15px;
+    }
+}
+@media all and (max-width: 1025px) {
+    .btn {
+        font-size: 13px;
+    }
+}
+@media all and (max-width: 854px) {
+    .btn {
+        font-size: 10px;
+    }
+    .btnOne {
+        font-size: 18px;
+    }
+}
+@media all and (max-width: 768px) {
+    .btn {
+        font-size: 13px;
+        padding: 4px;
+    }
+    .btnOne {
+        font-size: 18px;
+    }
+}
+@media all and (max-width: 567px) {
+    .btn {
+        font-size: 20px;
+        padding: 4px;
+    }
+    .btnOne {
+        margin-bottom: 10px;
+        margin-left: 5px;
+    }
+}

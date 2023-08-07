@@ -1,0 +1,97 @@
+{
+  "text": {
+    "menu": {
+      "one": "Hoofdpagina",
+      "two": "Over ons",
+      "tree": "Mijn Profiel",
+      "for": "Berichten",
+      "five": "Mijn Facturen",
+      "six": "Notificaties",
+      "seven": "Plaats Advertentie",
+      "eight": "Actieve Advertenties",
+      "nine": "Toepassingen",
+      "ten": "Mijn Toepassingen",
+      "eleven": "Beheer Team",
+      "twelve": "Klachten",
+      "login": "Log in",
+      "logOut": "Uitloggen",
+      "langue": "Taal"
+    },
+    "header": {
+      "myHeader": "We Bouwen Samen",
+      "forHeader": "Samen als een team, creëren we het werk van dromen!",
+      "myText": "In onze database bevinden zich uitstekende, ervaren entiteiten die gespecialiseerd zijn in verschillende vakgebieden. Elk van onze onderaannemers is een specialist in zijn vakgebied, die de hoogste kwaliteit van diensten garandeert. Samen creëren we een netwerk dat zelfs de meest gecompliceerde uitdagingen aankan."
+    },
+    "becomePartner": {
+      "forHeder": "U bent specialist?",
+      "secondHeaderOne": "Doe mee! We creëren de perfecte ruimte voor specialisten!",
+      "secondHeaderTwo": "Bent u op zoek naar gekwalificeerde A1-onderaannemers of werknemers? Neem contact met ons op!",
+      "textOne": "Bent u een specialist in uw vakgebied en op zoek naar nieuwe kansen? Bent u op zoek naar een platform dat uw vaardigheden waardeert en u de mogelijkheid biedt om waardevolle zakelijke relaties op te bouwen? Als dat zo is, bent u aan het juiste adres! We hebben een platform gecreëerd dat specialisten uit verschillende industrieën verbindt en biedt brede mogelijkheden voor ontwikkeling en samenwerking. Onze basis is een plek waar u uw vaardigheden kunt tonen en ook in contact kunt komen met andere professionals en potentiële klanten.",
+      "textTwo": "Als u op zoek bent naar ervaren A1-onderaannemers of geschoolde werknemers, zijn we hier om u te helpen. We hebben een database met specialisten uit verschillende vakgebieden die klaar staan om nieuwe uitdagingen aan te gaan. Kennis van de nieuwste trends, jarenlange ervaring en constante streven naar excellentie zijn de kenmerken die ons onderscheiden van de concurrentie.",
+      "textBtn": "Account aanmaken"
+    },
+    "ourOfferPage": {
+      "secundHeader": "Wat u bij ons wint",
+      "myText": "Wij bieden vele voordelen die aanzienlijk kunnen bijdragen aan de groei en ontwikkeling van onze zakelijke partners. Hier zijn enkele van de belangrijkste:",
+      "blokOffer": {
+        "dateBase": {
+          "forHeader": "Toegang tot",
+          "forHeaderBold": "contactendatabase",
+          "myText": "Door met ons samen te werken, krijgen zowel onderaannemers als opdrachtgevers toegang tot ons uitgebreide netwerk van professionals. Dit bespaart niet alleen tijd en moeite bij het zoeken en verifiëren van potentiële samenwerkingspartners, maar maakt ook een snellere en efficiëntere uitvoering van projecten mogelijk. Met ons platform wordt het leggen van contacten en het uitwisselen van diensten eenvoudiger dan ooit."
+        },
+        "contactPeople": {
+          "forHeader": "Bouwen van",
+          "forHeaderBold": "eigen netwerk",
+          "myText": "Wij stellen onze partners, zowel opdrachtgevers als onderaannemers, in staat om hun eigen netwerk van professionals op te bouwen. Dit versterkt hun onafhankelijkheid en opent de deur naar het aangaan van nieuwe, gunstige zakelijke relaties. Of u nu op zoek bent naar diensten of deze aanbiedt, ons platform is een plaats die helpt om zakelijke contacten te ontwikkelen en te versterken."
+        },
+        "communication": {
+          "forHeader": "Effectieve Communicatie en",
+          "forHeaderBold": "eenvoudig factuurbeheer",
+          "myText": "Ons platform biedt niet alleen uitgebreide tools voor effectieve communicatie - zowel één-op-één als in groepen - maar ook een innovatief systeem voor het afhandelen van facturatieprocessen. Onze facturatietools zijn ontworpen om de behoefte aan een accountant te vervangen, wat zowel tijd als geld bespaart. Hierdoor wordt projectmanagement eenvoudiger en kunnen eventuele problemen snel worden geïdentificeerd en opgelost. Of u nu opdrachtgever of onderaannemer bent, onze tools zijn ontworpen om uw werk gemakkelijker en efficiënter te maken."
+        },
+        "grade": {
+          "forHeader": "Beoordelings",
+          "forHeaderBold": "systeem",
+          "myText": "Wij bieden tools die onze partners, zowel opdrachtgevers als onderaannemers, in staat stellen om vaardigheden te beoordelen en contact te leggen met andere professionals. Dit vergemakkelijkt het creëren van zakelijke relaties gebaseerd op betrouwbaarheid en verificatie, wat de kans op succes van elk project vergroot. Ons platform dient zowel degenen die op zoek zijn naar diensten als degenen die deze willen aanbieden, en garandeert een hoge standaard van samenwerking."
+        }
+      }
+    },
+    "mainProfessions": {
+      "secundHeader": "Belangrijkste sectoren van onze experts",
+      "myText": "Onze experts concentreren zich op de belangrijkste sectoren die een breed spectrum van vakgebieden en disciplines bestrijken. In deze sectoren zetten onze specialisten hun uitgebreide kennis en ervaring in om diensten van de hoogste kwaliteit te leveren. Hierdoor kunnen wij onze klanten niet alleen expertkennis, maar ook praktische oplossingen bieden die hen helpen hun doelen te bereiken.",
+      "offerOption": {
+        "offerOne": {
+          "forHeader": "Metselaars",
+          "myText": "Meesters in metselwerk! Bij ons vind je de beste specialisten in de sector!"
+        },
+        "offerTwo": {
+          "forHeader": "Elektriciens",
+          "myText": "Op zoek naar een expert in elektriciteit? Wij zijn er voor jou! De besten in de branche!"
+        },
+        "offerTree": {
+          "forHeader": "Loodgieters",
+          "myText": "Ongeëvenaarde loodgieters? Bij ons! De beste specialisten in de sector!"
+        },
+        "offerFor": {
+          "forHeader": "Ventilatiemonteurs",
+          "myText": "Op zoek naar een ventilatiemonteur? Bij ons! De top in dit vakgebied!"
+        },
+        "offerFive": {
+          "forHeader": "Interieurafwerkingsspecialisten",
+          "myText": "Wij creëren ruimte! Bij ons de beste specialisten in interieurafwerking."
+        },
+        "offerSix": {
+          "forHeader": "Tegelzetters",
+          "myText": "Onze tegelzetters zijn meesters in hun vak!"
+        }
+      }
+    }
+  },
+  "tags": {
+    "one": "Toon meer",
+    "two": "Toon minder",
+    "open": "Openen",
+    "closed": "Sluiten",
+    "signUpText": "Registreren"
+  }
+}

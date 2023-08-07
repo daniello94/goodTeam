@@ -1,0 +1,97 @@
+{
+  "text": {
+    "menu": {
+      "one": "Page d'accueil",
+      "two": "À propos de nous",
+      "tree": "Mon Profil",
+      "for": "Messages",
+      "five": "Mes Factures",
+      "six": "Notifications",
+      "seven": "Ajouter une annonce",
+      "eight": "Annonces actives",
+      "nine": "Applications",
+      "ten": "Mes applications",
+      "eleven": "Gérer l'équipe",
+      "twelve": "Plaintes",
+      "login": "S'identifier",
+      "logOut": "Déconnexion",
+      "langue": "Langue"
+    },
+    "header": {
+      "myHeader": "Nous construisons ensemble",
+      "forHeader": "Ensemble en tant qu'équipe, nous créons le travail des rêves!",
+      "myText": "Dans notre base de données, il existe d'excellentes entités expérimentées spécialisées dans divers domaines. Chacun de nos sous-traitants est un spécialiste dans son métier, garantissant la plus haute qualité de services. Ensemble, nous créons un réseau capable de relever même les défis les plus compliqués."
+    },
+    "becomePartner": {
+      "forHeder": "Vous êtes spécialiste?",
+      "secondHeaderOne": "Rejoignez-nous! Nous créons l'espace parfait pour les spécialistes!",
+      "secondHeaderTwo": "Vous cherchez des sous-traitants A1 qualifiés ou des employés? Contactez-nous!",
+      "textOne": "Êtes-vous spécialiste dans votre domaine et cherchez-vous de nouvelles opportunités? Vous cherchez une plateforme qui apprécie vos compétences et vous donne la possibilité d'établir des relations commerciales précieuses? Si oui, vous êtes au bon endroit! Nous avons créé une plateforme qui relie des spécialistes de divers secteurs, offrant de larges possibilités de développement et de collaboration. Notre base est un endroit où vous pouvez montrer vos compétences et également vous connecter avec d'autres professionnels et clients potentiels.",
+      "textTwo": "Si vous cherchez des sous-traitants A1 expérimentés ou des travailleurs qualifiés, nous sommes ici pour vous aider. Nous avons une base de données de spécialistes de différents domaines prêts à relever de nouveaux défis. La connaissance des dernières tendances, de nombreuses années d'expérience et une quête constante d'excellence sont les caractéristiques qui nous distinguent de la concurrence.",
+      "textBtn": "Créer un compte"
+    },
+    "ourOfferPage": {
+      "secundHeader": "Ce que vous gagnez avec nous",
+      "myText": "Nous offrons de nombreux avantages qui peuvent grandement contribuer à la croissance et au développement de nos partenaires commerciaux. Voici quelques-uns des plus importants:",
+      "blokOffer": {
+        "dateBase": {
+          "forHeader": "Accès à",
+          "forHeaderBold": "la base de contacts",
+          "myText": "En travaillant avec nous, les sous-traitants comme les clients ont accès à notre vaste réseau de professionnels. Cela permet non seulement d'économiser du temps et des efforts dans la recherche et la vérification de potentiels partenaires de coopération, mais aussi de mettre en œuvre des projets de manière plus rapide et efficace. Avec notre plateforme, l'établissement de contacts et l'échange de services deviennent aussi faciles que jamais."
+        },
+        "contactPeople": {
+          "forHeader": "Construire",
+          "forHeaderBold": "votre propre réseau",
+          "myText": "Nous permettons à nos partenaires, tant les clients que les sous-traitants, de construire leur propre réseau de professionnels. Cela renforce leur indépendance et ouvre la porte à l'établissement de nouvelles relations commerciales bénéfiques. Que vous soyez à la recherche de services ou que vous les proposiez, notre plateforme est un lieu qui aide à développer et à renforcer les contacts commerciaux."
+        },
+        "communication": {
+          "forHeader": "Communication efficace et",
+          "forHeaderBold": "gestion simple des factures",
+          "myText": "Notre plateforme offre non seulement des outils complets pour une communication efficace - aussi bien en tête-à-tête qu'en groupe - mais aussi un système innovant pour la gestion des processus de facturation. Nos outils de facturation ont été conçus pour remplacer le besoin d'un comptable, permettant d'économiser à la fois du temps et de l'argent. En conséquence, la gestion de projet devient plus facile, et les problèmes potentiels peuvent être rapidement identifiés et résolus. Que vous soyez un client ou un sous-traitant, nos outils sont conçus pour faciliter et améliorer votre travail."
+        },
+        "grade": {
+          "forHeader": "Système",
+          "forHeaderBold": "d'évaluation",
+          "myText": "Nous fournissons des outils qui permettent à nos partenaires, tant les clients que les sous-traitants, d'évaluer les compétences et d'établir un contact avec d'autres professionnels. Cela facilite la création de relations commerciales basées sur la crédibilité et la vérification, augmentant ainsi les chances de réussite de chaque projet. Notre plateforme sert à la fois ceux qui recherchent des services et ceux qui souhaitent les fournir, garantissant un haut standard de coopération."
+        }
+      }
+    },
+    "mainProfessions": {
+      "secundHeader": "Secteurs clés de nos experts",
+      "myText": "Nos experts se concentrent sur des secteurs clés qui couvrent un large éventail de domaines et de disciplines. Dans ces secteurs, nos spécialistes exploitent leur vaste savoir et expérience pour fournir des services de la plus haute qualité. Cela nous permet d'offrir à nos clients non seulement un savoir-faire expert, mais aussi des solutions pratiques qui les aident à atteindre leurs objectifs.",
+      "offerOption": {
+        "offerOne": {
+          "forHeader": "Maçons",
+          "myText": "Maîtres de la maçonnerie! Avec nous, vous trouverez les meilleurs spécialistes de l'industrie!"
+        },
+        "offerTwo": {
+          "forHeader": "Électriciens",
+          "myText": "Vous cherchez un expert en électricité? Nous sommes là pour vous! Les meilleurs dans l'industrie!"
+        },
+        "offerTree": {
+          "forHeader": "Plombiers",
+          "myText": "Des plombiers inégalés? Avec nous! Les meilleurs spécialistes de l'industrie!"
+        },
+        "offerFor": {
+          "forHeader": "Installateurs de ventilation",
+          "myText": "Vous cherchez un installateur de ventilation? Avec nous! L'élite dans ce domaine!"
+        },
+        "offerFive": {
+          "forHeader": "Spécialistes de la finition intérieure",
+          "myText": "Nous créons de l'espace! Avec nous, les meilleurs spécialistes de la finition intérieure."
+        },
+        "offerSix": {
+          "forHeader": "Carreleurs",
+          "myText": "Nos carreleurs sont des maîtres dans leur métier!"
+        }
+      }
+    }
+  },
+  "tags": {
+    "one": "Montre plus",
+    "two": "Montre moins",
+    "open": "Ouvrir",
+    "closed": "Fermer",
+    "signUpText": "S'inscrire"
+  }
+}

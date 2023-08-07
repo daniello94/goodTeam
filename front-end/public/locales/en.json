@@ -1,0 +1,97 @@
+{
+  "text": {
+    "menu": {
+      "one": "Home",
+      "two": "About us",
+      "tree": "My Profile",
+      "for": "Messages",
+      "five": "My Invoices",
+      "six": "Notifications",
+      "seven": "Add Advertisement",
+      "eight": "Active Advertisements",
+      "nine": "Applications",
+      "ten": "My Applications",
+      "eleven": "Manage Team",
+      "twelve": "Complaints",
+      "login": "Login",
+      "logOut": "Log out",
+      "langue": "Langue"
+    },
+    "header": {
+      "myHeader": "Building Together",
+      "forHeader": "Together as a team, we create the work of dreams!",
+      "myText": "In our database, there are excellent, experienced entities specializing in various fields. Each of our subcontractors is a specialist in his profession, guaranteeing the highest quality of services. Together, we create a network that can meet even the most complicated challenges."
+    },
+    "becomePartner": {
+      "forHeder": "You're a specialist?",
+      "secondHeaderOne": "Join us! We are creating the perfect space for specialists!",
+      "secondHeaderTwo": "Are you looking for qualified A1 subcontractors or employees? Contact us!",
+      "textOne": "Are you a specialist in your field and looking for new opportunities? Are you looking for a platform that appreciates your skills and gives you the opportunity to establish valuable business relationships? If so, you are in the right place! We have created a platform that connects specialists from various industries, offering wide possibilities for development and collaboration. Our base is a place where you can showcase your skills and also connect with other professionals and potential clients.",
+      "textTwo": "If you are looking for experienced A1 subcontractors or skilled workers, we are here to help. We have a database of specialists from different fields who are ready to take on new challenges. Knowledge of the latest trends, many years of experience, and constant pursuit of excellence are the features that distinguish us from the competition.",
+      "textBtn": "Create Account"
+    },
+    "ourOfferPage": {
+      "secundHeader": "What you gain with us",
+      "myText": "We offer many benefits that can greatly contribute to the growth and development of our business partners. Here are some of the most important ones:",
+      "blokOffer": {
+        "dateBase": {
+          "forHeader": "Access to",
+          "forHeaderBold": "contact database",
+          "myText": "Working with us, both subcontractors and clients gain access to our extensive network of professionals. This not only saves time and effort in searching for and verifying potential cooperation partners, but also enables faster and more efficient project implementation. With our platform, establishing contacts and service exchange become as easy as never before."
+        },
+        "contactPeople": {
+          "forHeader": "Building",
+          "forHeaderBold": "your own network",
+          "myText": "We enable our partners, both clients and subcontractors, to build their own network of professionals. This strengthens their independence and opens the door to establishing new, beneficial business relationships. Whether you are looking for services or offering them, our platform is a place that helps develop and tighten business contacts."
+        },
+        "communication": {
+          "forHeader": "Effective Communication and",
+          "forHeaderBold": "simple invoice management",
+          "myText": "Our platform offers not only comprehensive tools for effective communication - both one-on-one and group - but also an innovative system for handling invoicing processes. Our invoicing tools have been designed to replace the need for an accountant, saving both time and money. As a result, project management becomes easier, and potential problems can be quickly identified and resolved. Whether you're a client or a subcontractor, our tools are designed to make your work easier and more efficient."
+        },
+        "grade": {
+          "forHeader": "Rating",
+          "forHeaderBold": "system",
+          "myText": "We provide tools that allow our partners, both clients and subcontractors, to assess skills and establish contact with other professionals. This facilitates the creation of business relationships based on credibility and verification, increasing the chances of success for each project. Our platform serves both those who are looking for services and those who want to provide them, guaranteeing a high standard of cooperation."
+        }
+      }
+    },
+    "mainProfessions": {
+      "secundHeader": "Key sectors of our experts",
+      "myText": "Our experts focus on key sectors that cover a broad spectrum of fields and disciplines. In these sectors, our specialists leverage their extensive knowledge and experience to deliver top-quality services. This allows us to offer our clients not only expert knowledge, but also practical solutions that help them achieve their goals.",
+      "offerOption": {
+        "offerOne": {
+          "forHeader": "Bricklayers",
+          "myText": "Masters of bricklaying! With us, you will find the best specialists in the industry!"
+        },
+        "offerTwo": {
+          "forHeader": "Electricians",
+          "myText": "Looking for an electricity expert? We're here for you! The best in the industry!"
+        },
+        "offerTree": {
+          "forHeader": "Plumbers",
+          "myText": "Unparalleled plumbers? With us! The best specialists in the industry!"
+        },
+        "offerFor": {
+          "forHeader": "Ventilation Installers",
+          "myText": "Looking for a ventilation installer? With us! The elite in this field!"
+        },
+        "offerFive": {
+          "forHeader": "Interior Finishing Specialists",
+          "myText": "We create space! With us, the best interior finishing specialists."
+        },
+        "offerSix": {
+          "forHeader": "Tilers",
+          "myText": "Our tilers are masters in their craft!"
+        }
+      }
+    }
+  },
+  "tags": {
+    "one": "Show more",
+    "two": "Show less",
+    "open": "Open",
+    "closed": "Close",
+    "signUpText": "Sign up"
+  }
+}

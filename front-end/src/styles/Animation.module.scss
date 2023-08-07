@@ -1,0 +1,253 @@
+@keyframes moveFromTopToBottom {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes moveFromBottomToTop {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes moveFromLeftToRight {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes moveFromRightToLeft {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes animeBtn {
+    0% {
+        transform: scale(1);
+        opacity: 0;
+    }
+
+    30% {
+        transform: scaleX(1.25) scaleY(0.75);
+    }
+
+    40% {
+        transform: scaleX(0.75) scaleY(1.25);
+    }
+
+    50% {
+        transform: scaleX(1.15) scaleY(0.85);
+    }
+
+    65% {
+        transform: scaleX(0.95) scaleY(1.05);
+    }
+
+    75% {
+        transform: scaleX(1.05) scaleY(0.95);
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+@keyframes rubberBand {
+    0% {
+        opacity: 0;
+        transform: translateX(250px);
+    }
+    20% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes speedTo {
+    0% {
+        opacity: 0;
+        transform: translateX(-250px);
+    }
+    20% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+@keyframes animateRotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0.1;
+    }
+    20% {
+        opacity: 0.2;
+    }
+    30% {
+        opacity: 0.3;
+    }
+    40% {
+        opacity: 0.4;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    60% {
+        opacity: 0.6;
+    }
+    70% {
+        opacity: 0.7;
+    }
+    80% {
+        opacity: 0.8;
+    }
+    90% {
+        opacity: 0.9;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@keyframes flipPage {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0;
+        transform: rotateX(180deg);
+    }
+    100% {
+        opacity: 1;
+        transform: rotateX(0deg);
+    }
+}
+/* animation Heder */
+.text {
+    animation: moveFromTopToBottom 2.5s ease-in-out;
+}
+.iconLeft {
+    animation: moveFromLeftToRight 2.5s ease-in-out;
+}
+.iconRight {
+    animation: moveFromRightToLeft 2.5s ease-in-out;
+}
+/* animation OurOfferPage */
+.animateElement {
+    animation: animateRotation 2s;
+}
+.animationTopToBottom {
+    animation: moveFromTopToBottom 3s 2s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.animationLeftToRight {
+    animation: moveFromLeftToRight 3s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.animationRightToLeft {
+    animation: moveFromRightToLeft 3s 6s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.animationBottomToTop {
+    animation: moveFromBottomToTop 3s 4s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+/* animation ButtonAndLink */
+.animeBtn {
+    animation: animeBtn 5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.animeBtnTwo {
+    animation: animeBtn 5s 2s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+/* animation BecomePartner */
+.rubberBand {
+    animation: rubberBand 2s;
+}
+.speed {
+    animation: speedTo 2s;
+}
+/* animation MainProfessions */
+.animeFadeIn {
+    animation: fadeIn 4s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.animeFlip {
+    animation: flipPage 7s;
+    animation-duration: var(--animation-delay, 3s);
+}
+
+/* media */
+
+@media all and (max-width: 568px) {
+    /* animation OurOfferPage */
+    .animationTopToBottom {
+        animation: moveFromRightToLeft 3s 2s;
+        opacity: 0;
+        animation-fill-mode: forwards;
+    }
+    .animationLeftToRight {
+        animation: moveFromLeftToRight 3s;
+        opacity: 0;
+        animation-fill-mode: forwards;
+    }
+    .animationRightToLeft {
+        animation: moveFromRightToLeft 3s 6s;
+        opacity: 0;
+        animation-fill-mode: forwards;
+    }
+    .animationBottomToTop {
+        animation: moveFromLeftToRight 3s 4s;
+        opacity: 0;
+        animation-fill-mode: forwards;
+    }
+    /* animation  MainProfessions  */
+    .animeFlip {
+        width: 100%;
+        height: 100%;
+        transform-style: preserve-3d;
+        transform-origin: bottom;
+        animation: flipPage 7s;
+    }
+}

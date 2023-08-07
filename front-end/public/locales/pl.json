@@ -1,0 +1,97 @@
+{
+  "text": {
+    "menu": {
+      "one": "Strona Główna",
+      "two": "O nas",
+      "tree": "Mój profil",
+      "for": "Wiadomości",
+      "five": "Moje faktury",
+      "six": "Powiadomienia",
+      "seven": "Dodaj ogłoszenie",
+      "eight": "Aktywne ogłoszenia",
+      "nine": "Aplikacje",
+      "ten": "Moje aplikacje",
+      "eleven": "Zarządzaj zespołem",
+      "twelve": "Skargi",
+      "login": "Zaloguj",
+      "logOut": "Wyloguj",
+      "langue": "Język"
+    },
+    "header": {
+      "myHeader": "Budujemy Razem",
+      "forHeader": "Razem, jako zespół, tworzymy pracę marzeń!",
+      "myText": "W naszej bazie znajdują się doskonałe, doświadczone podmioty specjalizujące się w różnych dziedzinach. Każdy z naszych podwykonawców to specjalista w swoim fachu, gwarantujący najwyższą jakość usług. Razem tworzymy sieć, która jest w stanie sprostać nawet najbardziej skomplikowanym wyzwaniom."
+    },
+    "becomePartner": {
+      "forHeder": "Jesteś specjalistą?",
+      "secondHeaderOne": "Dołącz do nas! Tworzymy przestrzeń idealną dla specjalistów!",
+      "secondHeaderTwo": "Szukasz wykwalifikowanych podwykonawców na A1 lub pracowników? Skontaktuj się z nami!",
+      "textOne": "Czy jesteś specjalistą w swojej dziedzinie i szukasz nowych możliwości? Czy poszukujesz platformy, która doceni Twoje umiejętności i da Ci możliwość nawiązywania cennych relacji biznesowych? Jeśli tak, to jesteś we właściwym miejscu! Stworzyliśmy platformę, która łączy specjalistów różnych branż, oferując szerokie możliwości rozwoju i nawiązywania współpracy. Nasza baza to miejsce, w którym możesz pokazać swoje umiejętności, a także nawiązać kontakt z innymi profesjonalistami i potencjalnymi klientami.",
+      "textTwo": "Jeśli poszukujesz doświadczonych podwykonawców na A1 lub wykwalifikowanych pracowników, jesteśmy tutaj, aby Ci pomóc. Dysponujemy bazą specjalistów z różnych dziedzin, którzy są gotowi do podjęcia nowych wyzwań. Znajomość najnowszych trendów, wieloletnie doświadczenie i nieustanne dążenie do doskonałości to cechy, które wyróżniają nas na tle konkurencji.",
+      "textBtn": "Utwórz Konto"
+    },
+    "ourOfferPage": {
+      "secundHeader": "Z nami zyskujesz",
+      "myText": "Oferujemy wiele korzyści, które mogą znacznie przyczynić się do wzrostu i rozwoju naszych partnerów biznesowych. Oto kilka najważniejszych z nich:",
+      "blokOffer": {
+        "dateBase": {
+          "forHeader": "Dostep do",
+          "forHeaderBold": "bazy kontaktów",
+          "myText": "Współpracując z nami, zarówno podwykonawcy, jak i zleceniodawcy, zyskują dostęp do naszej obszernej sieci profesjonalistów. To nie tylko oszczędza czas i wysiłek na wyszukiwanie i weryfikowanie potencjalnych partnerów do współpracy, ale także umożliwia szybsze i bardziej efektywne realizowanie projektów. Dzięki naszej platformie, łatwość nawiązywania kontaktów i wymiana usług stają się proste jak nigdy dotąd"
+        },
+        "contactPeople": {
+          "forHeader": "Budowanie",
+          "forHeaderBold": "własnej sieci kontaktów",
+          "myText": "Umożliwiamy naszym partnerom, zarówno zleceniodawcom, jak i podwykonawcom, budowanie własnej sieci profesjonalistów. Wzmacnia to ich niezależność i otwiera drzwi do nawiązywania nowych, korzystnych relacji biznesowych. Niezależnie od tego, czy szukasz usług, czy oferujesz je, nasza platforma jest miejscem, które pomaga rozwijać i zacieśniać kontakty biznesowe"
+        },
+        "communication": {
+          "forHeader": "Efektowna Komunikacja i",
+          "forHeaderBold": "proste zarządzanie fakturami",
+          "myText": "Nasza platforma oferuje nie tylko kompleksowe narzędzia do efektywnej komunikacji - zarówno jedno-na-jedno, jak i grupowej - ale również innowacyjny system do obsługi procesów fakturowania. Nasze narzędzia do wystawiania faktur zostały zaprojektowane tak, aby zastąpić konieczność zatrudniania księgowego, co pozwala zaoszczędzić zarówno czas, jak i pieniądze. W efekcie zarządzanie projektami staje się łatwiejsze, a potencjalne problemy mogą być szybko identyfikowane i rozwiązane. Bez względu na to, czy jesteś zleceniodawcą czy podwykonawcą, nasze narzędzia są zaprojektowane z myślą o ułatwieniu i usprawnieniu Twojej pracy"
+        },
+        "grade": {
+          "forHeader": "System",
+          "forHeaderBold": "ocen",
+          "myText": "Zapewniamy narzędzia, które pozwalają naszym partnerom, zarówno zleceniodawcom, jak i podwykonawcom, oceniać umiejętności i nawiązywać kontakt z innymi profesjonalistami. Ułatwia to tworzenie relacji biznesowych opartych na wiarygodności i sprawdzeniu, co zwiększa szanse na sukces każdego projektu. Nasza platforma służy zarówno tym, którzy szukają usług, jak i tym, którzy chcą je świadczyć, gwarantując wysoki standard współpracy."
+        }
+      }
+    },
+    "mainProfessions": {
+      "secundHeader": "Kluczowe sektory naszych ekspertów",
+      "myText": "Nasi eksperci skupiają się na kluczowych sektorach, które obejmują szerokie spektrum dziedzin i dyscyplin. W tych sektorach nasi specjaliści wykorzystują swoją obszerną wiedzę i doświadczenie, dostarczając usługi najwyższej jakości. Dzięki temu jesteśmy w stanie zaoferować naszym klientom nie tylko wiedzę ekspercką, ale także praktyczne rozwiązania, które pomagają im osiągnąć ich cele.",
+      "offerOption": {
+        "offerOne": {
+          "forHeader": "Murarze",
+          "myText": "Mistrzowie murarstwa! U nas znajdziesz najlepszych specjalistów w branży!"
+        },
+        "offerTwo": {
+          "forHeader": "Elektrycy",
+          "myText": "Szukasz eksperta od elektryki? Jesteśmy tu dla Ciebie! Najlepsi w branży!"
+        },
+        "offerTree": {
+          "forHeader": "Hydraulicy",
+          "myText": "Niezrównani hydraulicy? U nas! Najlepsi specjaliści w branży!"
+        },
+        "offerFor": {
+          "forHeader": "Monterzy Wentylacji",
+          "myText": "Szukasz montera wentylacji? U nas! Elita w tej dziedzinie!"
+        },
+        "offerFive": {
+          "forHeader": "Specjaliści od wykończenia wnętrz",
+          "myText": "Tworzymy przestrzeń! U nas najlepsi specjaliści od wykończeń wnętrz."
+        },
+        "offerSix": {
+          "forHeader": "Glazurnicy",
+          "myText": "U nas glazurnicy są mistrzami w swoim fachu!"
+        }
+      }
+    }
+  },
+  "tags": {
+    "one": "Pokaż więcej",
+    "two": "Pokaż mniej",
+    "open": "Otwórz",
+    "closed": "Zamknij",
+    "signUpText": "Zarejestruj się"
+  }
+}
